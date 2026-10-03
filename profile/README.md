@@ -1,6 +1,6 @@
 # Karolusia
 
-**Un commun européen d'intelligence artificielle.**
+**Un commun européen d'intelligence artificielle.** · [karolusia.com](https://karolusia.com)
 
 Un modèle de langue que personne ne possède. Il est entraîné et servi par les ordinateurs de celles et ceux qui s'en servent, sans supercalculateur, sans investisseur, sans dépendre d'aucun géant du numérique.
 
@@ -27,3 +27,7 @@ Le nom vient de Charlemagne (*Karolus* en latin), qui a rassemblé l'Europe et r
 ## Où en est-on
 
 Le projet est au tout début : en phase d'expérimentation. L'application n'est pas encore disponible. Ce compte sera tenu à jour à chaque étape franchie.
+
+## Contact
+
+Une question, une envie de contribuer, une remarque : [contact@karolusia.com](mailto:contact@karolusia.com)
