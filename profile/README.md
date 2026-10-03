@@ -22,7 +22,7 @@ Plus nous sommes nombreux, plus il en sait.
 
 ## Rejoindre l'Ost
 
-Le nom vient de Charlemagne (*Karolus* en latin), qui a rassemblé l'Europe et remis l'écrit au centre. L'Ost, c'est le réseau des contributeurs : chacun prête son ordinateur quand il ne s'en sert pas, et reçoit en échange l'accès au modèle. La contrepartie n'est pas de l'argent.
+Le nom vient de Charlemagne (*Karolus* en latin), qui a rassemblé l'Europe et remis l'écrit au centre. L'Ost, c'est le réseau des contributeurs : chacun prête son ordinateur quand il ne s'en sert pas, et reçoit en échange l'accès au modèle.
 
 ## Où en est-on
 
